@@ -1,0 +1,26 @@
+.pricing{
+    display: flex;
+    gap: 20px;
+    background-color: #fffbf0;
+    padding :40px ;
+    flex-wrap: wrap;
+    justify-content: center;
+    .pricingItem{
+        background-color: #fae7b8;
+        padding: 10px;
+        border-radius:10px ;
+        box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+        transition: 0.3s ease;
+        flex: 1 1 250px;
+        max-width: 300px;
+        &:hover{
+            background-color: #b3a583;
+            color:#fffbf0;
+            transform: translateY(-5px);
+
+            
+        }
+
+    }
+}
+

@@ -1,0 +1,21 @@
+ [
+  {
+    "id": 1,
+    "title": "Basic",
+    "price": "$120/mo",
+    "features": ["1 Website ", "Basic Support ", "Limited Features "]
+  },
+  {
+    "id": 2,
+    "title": "Pro",
+    "price": "$500/mo",
+    "features": ["5 Websites ", "Priority Support ", "All Features "],
+    "popular": true
+  },
+  {
+    "id": 3,
+    "title": "Enterprise",
+    "price": "$1000/mo",
+    "features": ["Unlimited Websites ", "24/7 Support ", "Advanced Features "]
+  }
+]

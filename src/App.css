@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+
+.App{
+    text-align: center;
+    font-family: "Quicksand";
+    width: 100%;
+    
+}
+h1{
+    font-family: "Fascinate Inline", system-ui;
+    color: #55583e;
+    font-size: clamp(28px, 5vw, 40px)
+
+}
+section{
+  padding: 10px 0px;
+  background-color: #fae7b8;
+}
+
+

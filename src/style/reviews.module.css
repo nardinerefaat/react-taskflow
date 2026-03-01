@@ -1,0 +1,36 @@
+.reviews {
+  background-color: #fae7b8;
+  padding: 40px;
+}
+
+.reviewsContainer {
+  display: flex;
+  gap: 20px;
+  text-align: center;
+}
+.reviewsContainer img {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  float: left;
+}
+.reviewsContainer p {
+  text-align: left;
+}
+.reviewsContainer .reviewsItems {
+  background-color: #fffbf0;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+  transition: 0.3s ease;
+}
+.reviewsContainer .reviewsItems:hover {
+  background-color: #b3a583;
+  color: #fffbf0;
+  transform: translateY(-5px);
+}
+.reviewsContainer h6 {
+  text-align: left;
+  display: flex;
+  gap: 20px;
+}/*# sourceMappingURL=reviews.module.css.map */
